@@ -131,5 +131,36 @@ transition: 1s;}
     
   }
 
+  .text-class{
+      font-family: Arial, sans-serif; /* Specify the font family */
+      font-size: 15px; /* Specify the font size */
+      font-weight: bold; /* Make the text bold */
+      color: rgb(3, 3, 3); /* Make the text blue */
+      text-decoration: none; /* Underline the text */
+      text-align: center; /* Align the text to the center */
+  }
+  
+  .text-page-2{
+    width: 100%;
+    margin:0px auto;
+    background:rgba(226, 226, 226, 0.925);
+    padding:25px 25px;
+    margin-top:-30px;
+    position:relative;
+    border-left:1px solid rgba(0, 0, 0, 0.08);
+    border-right:1px solid rgba(0,0,0,0.08);
+    border-top: 1px solid rgba(0,0,0,0.08);
+    border-radius: 30px;
+    color:black;
+    font-size: 20px;
+  }
+  .h1-p2{
+    margin-bottom: 50px ;
+  }
+
+  .h2-p2{
+    margin-bottom: 50px;
+    margin-left: 100px;
+  }
 
   
